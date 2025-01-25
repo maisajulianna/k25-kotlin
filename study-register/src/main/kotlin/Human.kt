@@ -1,6 +1,6 @@
-package org.example
+package study_register
 
-class Human (var ame: String, var age: Int) {
+open class Human (var name: String, var age: Int) {
     fun getOlder() {
         age++
     }
