@@ -1,11 +1,9 @@
 package org.example
-
-class Student {courses: listOf} {
-    fun register(course: Course) {
-        courses.add(course)
-    }
+/*
+class Student (courses: listOf) : Human(name, age) {
+    val courses = mutableListOf<Course>()
     fun addCourse(course)
     fun weightedAverage()
     fun weighedAverage(year)
     fun minMaxGrades()
-}
+}*/

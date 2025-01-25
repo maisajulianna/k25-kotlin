@@ -1,5 +1,5 @@
 plugins {
-    kotlin("jvm") version "1.9.22"
+    kotlin("jvm")
 }
 
 group = "org.example"
@@ -11,7 +11,7 @@ repositories {
 
 dependencies {
     testImplementation("org.jetbrains.kotlin:kotlin-test")
-    implementation(kotlin("script-runtime"))
+    implementation("org.jetbrains.kotlin:kotlin-script-runtime")
 }
 
 tasks.test {

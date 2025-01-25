@@ -3,6 +3,8 @@
   <component name="SonarLintProjectSettings">
     <option name="moduleMapping">
       <map>
+        <entry key="kotlin" value="kotlinIntro2" />
+        <entry key="kotlinIntro2.class" value="kotlinIntro2.src2" />
         <entry key="kotlinIntro2.study-register" value="kotlinIntro2.study2" />
       </map>
     </option>
