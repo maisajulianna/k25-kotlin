@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/class" />
+            <option value="$PROJECT_DIR$/complex-numbers" />
             <option value="$PROJECT_DIR$/study-register" />
           </set>
         </option>
